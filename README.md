@@ -4,3 +4,4 @@ Repository ini berisi solusi dari soal-soal algoritma di www.hackerrank.com di t
 
 Berikut soal-soal yang sudah di selesaikan:
 1. [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)
+2. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
