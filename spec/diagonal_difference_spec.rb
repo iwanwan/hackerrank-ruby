@@ -1,4 +1,4 @@
-require './diagonal_difference'
+require './src/diagonal_difference'
 
 describe DiagonalDifference do
   describe '.count' do

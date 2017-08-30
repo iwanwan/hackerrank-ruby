@@ -1,4 +1,4 @@
-require './plus_minus'
+require './src/plus_minus'
 
 describe PlusMinus do
   describe ".count" do
