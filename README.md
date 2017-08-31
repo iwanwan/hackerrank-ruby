@@ -8,7 +8,4 @@ Berikut soal-soal yang sudah di selesaikan:
 3. [Staircase](https://www.hackerrank.com/challenges/staircase)
 4. [Min Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
 5. [Birthday Cake Candles] (https://www.hackerrank.com/challenges/birthday-cake-candles)
-<<<<<<< 7962014e066c2c39918dc6d7052e1c12ec9a888b
-=======
 6. [Time Conversion] (https://www.hackerrank.com/challenges/time-conversion)
->>>>>>> add time conversion solution
