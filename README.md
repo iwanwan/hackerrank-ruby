@@ -7,5 +7,5 @@ Berikut soal-soal yang sudah di selesaikan:
 2. [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)
 3. [Staircase](https://www.hackerrank.com/challenges/staircase)
 4. [Min Max Sum](https://www.hackerrank.com/challenges/mini-max-sum)
-5. [Birthday Cake Candles] (https://www.hackerrank.com/challenges/birthday-cake-candles)
-6. [Time Conversion] (https://www.hackerrank.com/challenges/time-conversion)
+5. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)
+6. [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)
